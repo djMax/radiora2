@@ -1,0 +1,16 @@
+{
+  "author": "Max Metral",
+  "name": "radiora2",
+  "description": "Lutron RadioRa 2 control module - to control lighting, shades, etc.",
+  "version": "0.0.1",
+  "repository": {
+    "url": "https://github.com/djMax/radiora2.git"
+  },
+  "main": "./lib/radiora2",
+  "dependencies": {},
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  }
+}
